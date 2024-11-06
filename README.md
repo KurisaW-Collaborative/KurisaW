@@ -1,16 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=176EFFE6&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+kurisaW+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm kurisaW Welcome to my Profile! animated typed out">
 
 <div align="center">
-
-   <a href="https://github.com/kurisaW">
-      <img src="https://img.shields.io/badge/GitHub-%40kurisaw-181717?style=flat-square&logo=github" 
-      alt="@kurisaw" />
-   </a>
-   <a href="https://kurisaw.eu.org/">
-      <img src="https://img.shields.io/badge/website-kurisaw.eu.org-brightgreen?style=flat-square"
-      alt="kurisaw.eu.org" />
-   </a>
-   <a href="mailto:yifang.wangyq@foxmail.com">
+>
       <img src="https://img.shields.io/badge/Email-yifang.wangyq@foxmail.com-blue?style=flat-square&logo=gmail" 
       alt="yifang.wangyq@foxmail.com"/>
    </a>
